@@ -66,7 +66,7 @@ During `apply`, you’ll see a `.tflock` file appear in your S3 bucket. It disap
 
 - No need for DynamoDB
 - Easier setup and maintenance
-- Works seamlessly with CI/CD pipelines
+- Saved cost by removing DynamoDB
 
 ## 📘 References
 
